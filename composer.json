@@ -1,0 +1,17 @@
+{
+    "name": "deryck/user-toolkit",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "UserToolkit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deryck",
+            "email": "deryck@dygo.cl"
+        }
+    ],
+    "require": {}
+}
